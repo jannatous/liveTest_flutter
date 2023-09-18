@@ -30,7 +30,7 @@ class HomeScreen extends StatelessWidget{
         appBar: AppBar(
           centerTitle: true,
           title: Text('My Shopping List', style: TextStyle(
-              fontSize: 24
+              fontSize: 28
           ),),
           actions: [Icon(Icons.shopping_cart_rounded, size: 30,)],
           backgroundColor: Colors.blue,
